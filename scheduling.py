@@ -7,7 +7,7 @@ import pywhatkit
 from datetime import datetime , time , timedelta
 import time as tm
 def job() :
-    pywhatkit.sendwhatmsg("+919910693302", "reached!", 15, 10)
+    pywhatkit.sendwhatmsg("+91991069302", "reached!", 15, 10)
 
 
 
